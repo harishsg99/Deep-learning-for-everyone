@@ -1,4 +1,4 @@
-## Deep learning for everyone means
+## Deep learning for everyone 
 Now anyone can able to build deep learning without knowing math and statistics
 
 ## I ❤❤ deep learning
