@@ -2,4 +2,4 @@
 
 ## I ❤❤ deep learning
 
-This repo aims contains code for no code deep learning tool by ScoopML Inc 
+This repo aims to contain code for no code deep learning tool by ScoopML Inc 
