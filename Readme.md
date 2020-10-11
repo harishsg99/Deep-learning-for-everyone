@@ -4,4 +4,6 @@
 
 This repo aims to contain code for no code deep learning tool by ScoopML Inc 
 
-This repo contains chrome extension and Desktop apps for Mac , Windows and Mac OS
+This repo contains chrome extension and website 
+
+Desktop apps will be added soon..
